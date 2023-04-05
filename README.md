@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Nara%20Github!&fontSize=90&fontColor=)
 <div align=center>
 <h3>👩🏻‍💻 Introduction</h3>
-<h5>안녕하세요! 현재 공부중인 백엔드 주니어 개발자 꿈나무입니다.</h5>
-<h5>커뮤니케이션 능력이 높은 좋은 개발자가 되겠습니다!</h5><br>
-<h5>- DNH : 항공권 예약 팀 프로젝트</h5>
-<h5>- Ex-Java : 자바 알고리즘 풀이</h5><br>    
+<h4>안녕하세요! 현재 공부중인 백엔드 주니어 개발자 꿈나무입니다.</h4>
+<h4>커뮤니케이션 능력이 높은 좋은 개발자가 되겠습니다!</h4><br>
+<h4>- DNH : 항공권 예약 팀 프로젝트</h4>
+<h4>- Ex-Java : 자바 알고리즘 풀이</h4><br>    
 </div>
 
 <h2>Skill Set</h2>
