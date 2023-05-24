@@ -4,7 +4,7 @@
 <h3>안녕하세요! 현재 공부중인 백엔드 주니어 개발자 꿈나무입니다.</h3>
 <h3>커뮤니케이션 능력이 좋은 개발자가 되겠습니다!</h3><br>
 <h3>- DNH : 항공권 예약 팀 프로젝트</h3>
-<g-emoji class="g-emoji" alias="airplane" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2708.png">✈️</g-emoji><a href="https://github.com/nara316/TNH">Go Travel</a>
+<g-emoji class="g-emoji" alias="airplane" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2708.png">✈️</g-emoji>&nbsp;<a href="https://github.com/nara316/TNH">Go Travel</a>&nbsp;<g-emoji class="g-emoji" alias="airplane" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2708.png">✈️</g-emoji>
  <hr>
 <h3>- Ex-Java : 자바 알고리즘 풀이</h3>
 </div>
