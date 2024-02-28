@@ -6,8 +6,8 @@
 <h3>- DNH : 항공권 예약 팀 프로젝트</h3>
 <g-emoji class="g-emoji" alias="airplane" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2708.png">✈️</g-emoji>&nbsp;<a href="https://github.com/nara316/TNH">Go Travel</a>&nbsp;<g-emoji class="g-emoji" alias="airplane" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2708.png">✈️</g-emoji>
  <hr>
-<h3>- Ex-Java : 자바 알고리즘 풀이</h3>
-<a href="https://github.com/nara316/Ex-Java">Ex-Java</a>
+<h3>- Dev-Together : 소모임 참여 1인 토이 프로젝트</h3>
+<a href="https://github.com/nara316/dev-together">Ex-Java</a>
 </div>
 
 <h2>Skill Set</h2>
